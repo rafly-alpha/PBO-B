@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BukuDAO
+comment1.params=buku
+comment1.target=void\ insert(Buku)
+comment2.params=
+comment2.target=java.util.ArrayList\ getAll()
+comment3.params=buku
+comment3.target=void\ update(Buku)
+comment4.params=id
+comment4.target=void\ delete(int)
+numComments=5
