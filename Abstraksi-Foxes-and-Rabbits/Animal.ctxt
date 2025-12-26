@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Abstract\ class\ Animal\r\n\ Menyimpan\ perilaku\ dan\ atribut\ umum\ semua\ hewan\r\n
+comment1.params=
+comment1.target=Animal()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ abstrak\ yang\ harus\ diimplementasikan\r\n\ oleh\ setiap\ jenis\ hewan\r\n
+comment3.params=
+comment3.target=void\ growOlder()
+comment4.params=
+comment4.target=int\ getMaxAge()
+comment4.text=\r\n\ Setiap\ hewan\ memiliki\ batas\ usia\ berbeda\r\n
+comment5.params=
+comment5.target=boolean\ isAlive()
+numComments=6
